@@ -1,0 +1,14 @@
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\bin\Debug\net9.0\MullItOver.exe
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\bin\Debug\net9.0\MullItOver.deps.json
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\bin\Debug\net9.0\MullItOver.runtimeconfig.json
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\bin\Debug\net9.0\MullItOver.dll
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\bin\Debug\net9.0\MullItOver.pdb
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.AssemblyInfoInputs.cache
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.AssemblyInfo.cs
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.csproj.CoreCompileInputs.cache
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.dll
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\refint\MullItOver.dll
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.pdb
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\MullItOver.genruntimeconfig.cache
+C:\Users\grran\development\AdventOfCode2024\Day3\MullItOver\obj\Debug\net9.0\ref\MullItOver.dll
